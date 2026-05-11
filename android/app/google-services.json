@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "951868438580",
+    "project_id": "velocity-af89b",
+    "storage_bucket": "velocity-af89b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951868438580:android:cb59d4c22db693510db261",
+        "android_client_info": {
+          "package_name": "com.velocitymath.velocity_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951868438580-mc4q9paj00e6ah1d5t3kab0jnc5lnm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWO3bhRJRBWxkBlByT2NQmUB83Zc-AOyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951868438580-mc4q9paj00e6ah1d5t3kab0jnc5lnm53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
